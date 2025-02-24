@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Book Shelf</string>
+    <string name="loading_failed">Loading Failed</string>
+</resources>
