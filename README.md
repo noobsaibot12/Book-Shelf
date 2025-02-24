@@ -37,8 +37,7 @@ Book Shelf App is a modern book discovery application built using **Kotlin** and
 
 ## 📷 Screenshots
 
-### Home Screen  
-![Home Screen](https://res.cloudinary.com/shashankcloud/image/upload/c_pad,b_gen_fill,w_300,h_400/v1737734341/Screenshot_20250124_212032_Book_Shelf_rkwx0f.jpg)
+### Home Screen [Home Screen](https://res.cloudinary.com/shashankcloud/image/upload/c_pad,b_gen_fill,w_300,h_400/v1737734341/Screenshot_20250124_212032_Book_Shelf_rkwx0f.jpg)
 
 ### Book List  
 ![Book List](https://res.cloudinary.com/shashankcloud/image/upload/c_pad,b_gen_fill,w_300,h_400/v1740417914/bs3_fbuom6.jpg)
